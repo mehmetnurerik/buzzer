@@ -1,4 +1,5 @@
-#ifndef buzzer_h // tanımlayıcı kutuphane ismimiz motor
+#ifndef buzzer_h 
+#include<Arduino.h>// tanımlayıcı kutuphane ismimiz motor
 #define buzzer
 #define a=440;
 #define ad=466;
